@@ -1,6 +1,7 @@
-# foodappadmin
+# FootApp Admin Panel
 
-A new Flutter project.
+- The Project based on Firebase and no State Management methods is used
+- This app for admin to block and permit users, sellers and drivers from using our apps.
 
 ## Getting Started
 
